@@ -1,0 +1,14 @@
+li:hover {
+    /*list-style-type: none;*/
+    text-decoration: underline;
+    color: red;
+    text-orientation: sideways-right;
+}
+
+article {
+    background-color: teal;
+    border-style: solid;
+    border-radius: 1px;
+    border-width: 8px;
+    border-color: blue;
+}
